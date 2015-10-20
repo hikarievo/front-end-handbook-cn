@@ -1,4 +1,7 @@
-My Awesome Book
+前端开发手册
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbook.com).
+
+这是 《Front-end Handbook》 的中文翻译版。 -- by [阿布](http://hikarievo.me)
+
