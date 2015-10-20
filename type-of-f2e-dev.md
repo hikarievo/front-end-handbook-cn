@@ -1,3 +1,9 @@
 # 前端职位分类
 
 下面是各种前端职位的介绍。通常来说，或者最普遍来说，这个职位一般叫做“前端开发”或者“前端工程师”。基本上，所有包括“前端”、“客户端”、“网站UI”、“HTML”、“CSS”或者“JavaScript”的职位都意味着这个人对HTML、CSS、DOM和JavaScript有某种程度的认识与实践。
+
+----
+
+**前端开发/工程师**（也就是前端网页开发/工程师或者客户端开发/工程师或者前端软件开发/工程师，所有带有Front-end, Web, Software, Develper, Engineer的排列组合）
+
+这个职位表示某人拥有某种程度的HTML、CSS、DOM以及JavaScript技能，并且能够将其应用于互联网平台上。The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
