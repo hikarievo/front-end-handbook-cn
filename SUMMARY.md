@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [什么是前端开发者？](what-is-a-fd.md)
 * [第一部分：前端实践](practice.md)
-    * [前端职位分类](type-of-f2e-dev.md)
+    * [前端职位分类](practice/type-of-f2e-dev.md)
     * [前端开发所需的web技术](practice/tech-employed-by-fd.md)
     * [前端开发技巧](practice/skills.md)
     * [前端为何开发](practice/fd-dev-for.md)
