@@ -5,8 +5,6 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 
 这是 《Front-end Handbook》 的中文翻译版。 -- by [阿布](http://hikarievo.me)
 
-----
-
 本文由[Cody Lindley](http://codylindley.com/)撰写，并由[Frontend Masters](https://frontendmasters.com/)赞助
 
 所有人都可以利用此文学习前端开发实践。本文概括地介绍并讨论了前段工程的实践：如何学习，以及都会使用何种工具。
@@ -22,15 +20,12 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 本书分为三个部分。
 
 ## 第一部分：前端实践
-----
 第一部分广泛讨论了前端的实践
 
 ## 第二部分：学习前端技术
-----
 第二部分提供了学习前端技术所需的资源。
 
 ## 第三部分： 前端开发工具
-----
 第三部分简单介绍该领域所用到的工具
 
 ***
@@ -38,6 +33,10 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 **在线阅读（英文原版）**: 
 
 * [http://www.frontendhandbook.com](http://www.frontendhandbook.com/)
+
+**在线阅读（中文版）**
+
+* [https://hikarievo.gitbooks.io/front-end-handbook-cn/content/]
  
 **下载 .pdf, .epub, 或者 .mobi （英文版）**: 
 
@@ -46,3 +45,7 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 **贡献内容，建议或更正内容（英文版）**: 
 
 * [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
+
+**本文Github仓库**
+
+* [https://github.com/FrontendMasters/front-end-handbook]
