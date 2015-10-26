@@ -36,7 +36,7 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 
 **在线阅读（中文版）**
 
-* [https://hikarievo.gitbooks.io/front-end-handbook-cn/content/]
+* [https://hikarievo.gitbooks.io/front-end-handbook-cn/content/](https://hikarievo.gitbooks.io/front-end-handbook-cn/content/)
  
 **下载 .pdf, .epub, 或者 .mobi （英文版）**: 
 
@@ -48,4 +48,4 @@ This is a Chinese version book of [Front-end Handbook](http://www.frontendhandbo
 
 **本文Github仓库**
 
-* [https://github.com/FrontendMasters/front-end-handbook]
+* [https://github.com/FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
