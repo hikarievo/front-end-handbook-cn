@@ -2,104 +2,104 @@
 
 ![](../images/web-tech-employed.jpg "http://www.2n2media.com/compare-front-end-development-and-back-end-development")
 
-<cite> image source: <a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
+<cite> 图片来源：<a href="http://www.2n2media.com/compare-front-end-development-and-back-end-development">http://www.2n2media.com/compare-front-end-development-and-back-end-development</a> </cite>
 
-The following web technologies are employed by front-end developers:
+下列网络技术都是前端开发者所需要掌握的技术：
 
-* Hyper Text Markup Language (aka HTML)
-* Cascading Style Sheets (aka CSS)
-* Document Object Model (aka DOM)
-* JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
-* Web API's (aka HTML5 and friends or Browser API's)
-* Hypertext Transfer Protocol (aka HTTP)
-* Uniform Resource Locator's (aka URL)
-* JavaScript Object Notation (aka JSON)
-* Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
+* 超文本标记语言（Hyper Text Markup Language，也就是HTML）
+* 层叠样式表（Cascading Style Sheets，也就是CSS）
+* 文档对象模型（Document Object Model，也就是DOM）
+* JavaScript程序语言（包括ECMAScript 6, ES6, JavaScript 2015）
+* 网络API（也就是 HTML5 和他的小伙伴们，或者浏览器API）
+* 超文本传输协议（Hypertext Transfer Protocol，也就是HTTP）
+* 统一资源定位符（Uniform Resource Locator's，也就是URL）
+* JavaScript对象表示法（JavaScript Object Notation，也就是JSON）
+* 网络内容易用性指南（Web Content Accessibility Guidelines，WCAG）和易用富网络应用（Accessible Rich Internet Applications，ARIA）
 
-These technologies are defined below with the relevant documentation and specifications. For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
+下面会分别定义这些技术，并附上相关文档和标准。想要查阅更全面的网络相关标准列表，可以访问[platform.html5.org](https://platform.html5.org/).
 
-##### Hyper Text Markup Language (aka HTML)
+##### 超文本标记语言（Hyper Text Markup Language，也就是HTML）
 
-> HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. - wikipedia.org
+> 超文本标记语言，简称HTML，是创建网页所用的标准标记语言。[1]网络浏览器可以读取HTML文件并把它们渲染成可视或可听的网页。HTML沿着网页呈现顺序，从语义上描述页面结构。这使得HTML成为标记语言，而非编程语言。 - wikipedia.org
 
-Most relevant specifications / documentation:
+主要相关标准/文档：
 
-* [HTML5 from W3C](http://www.w3.org/TR/html5/) : 5th major revision of the core language of the World Wide Web
-* [The elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
-* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
-* [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-* [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+* [W3C的HTML5](http://www.w3.org/TR/html5/) ：全球广域网核心语言的第五个重要修订版
+* [HTML元素](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [HTML语法](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* [所有W3C HTML标准](http://www.w3.org/standards/techs/html#w3c_all)
+* [HTML元素参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [HTML属性参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 
-##### Cascading Style Sheets (aka CSS)
+##### 层叠样式表（Cascading Style Sheets，也就是CSS）
 
-> Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications. - wikipedia.org
+> 层叠样式表（CSS）使用样式表语言，描述文档的外观和格式。尽管它经常用于改变网页和使用HTML、XHTML写成的用户界面的外观，但其实这种语言可以用于任何XML文档，包括纯XML、SVG以及XUL。CSS和HTML、JavaScript一道，作为大多数网站的基石，建立具有极强视觉吸引力的页面，互联网应用界面以及大量移动应用界面。 - wikipedia.org
 
-Most relevant specifications / documentation:
+主要相关标准/文档：
 
 * [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 * [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
 * [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-##### Document Object Model (aka DOM)
+##### 文档对象模型（Document Object Model，也就是DOM）
 
-> The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface (API). - wikipedia.org
+> 文档对象模型（DOM）是跨平台且与语言无关的公约，用于描述HTML、XHTML和XML文档，并与之中的对象进行交互。每个文档中的节点被组织为树状结构，被称作 DOM 树。DOM 树种的对象可以被寻址，并通过对象上的方法操纵。DOM 的公共接口由其应用程序接口（API）定义。 - wikipedia.org
 
-Most relevant specifications / documentation:
+主要相关标准/文档：
 
 * [W3C DOM4](http://www.w3.org/TR/2014/WD-dom-20140204/)
-* [DOM Living Standard](https://dom.spec.whatwg.org/)
+* [DOM](https://dom.spec.whatwg.org/)
 * [Document Object Model (DOM) Level 3 Events Specification](http://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/)
 
-##### JavaScript Programming Language (aka: ECMAScript 6, ES6, JavaScript 2015)
+##### JavaScript程序语言（包括ECMAScript 6, ES6, JavaScript 2015）
 
-> JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded. - wikipedia.org
+> JavaScript是高层次、动态、弱类型的解释性编程语言，并通过ECMA脚本语言标准规范化。JavaScript 和 HTML、CSS 一起，成为万维网内容产品的三大基石之一。绝大部分网站都会使用这项技术，而且所有现代浏览器无需插件均可支持。JavaScript是基于原型的，函数第一的多范式语言，支持面向对象、命令式和函数式编程。它具有工作于文字、数组、日期以及正则表达式的 API，但不支持任何像是联网、存储或图像设备 I/O，主要依其宿主环境而定。 - wikipedia.org
 
-Most relevant specifications / documentation:
+主要相关标准/文档：
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)
 
-##### Web API's (aka HTML5 and friends)
+##### 网络API（也就是 HTML5 和他的小伙伴们，或者浏览器API）
 
-> When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site. - Mozilla
+> 当使用JavaScript书写网络用代码的时候，有很多绝佳API可供使用。下面是当你开发你的app或网站时有可能会用到的所有界面列表。 - Mozilla
 
-Most relevant documentation:
+主要相关文档：
 
 * [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
 
-##### Hypertext Transfer Protocol (aka HTTP)
+##### 超文本传输协议（Hypertext Transfer Protocol，也就是HTTP）
 
-> The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. - wikipedia.org
+> 超文本传输协议（HTTP）是为分布式协作超媒体信息系统建立的应用协议。HTTP是万维网数据通信的基础。 - wikipedia.org
 
-Most relevant specifications:
+主要相关标准：
 
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 * [Hypertext Transfer Protocol version 2 draft-ietf-httpbis-http2-16](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
 
-##### Uniform Resource Locator's (aka URL)
+##### 统一资源定位符（Uniform Resource Locator，也就是URL）
 
-> A uniform resource locator (URL) (also called a web address)[1][2] is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI),[3] although many people use the two terms interchangeably.[4] A URL implies the means to access an indicated resource, which is not true of every URI.[4][5] URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications. - wikipedia.org
+> 统一资源定位符（URL，也被称为网址）[1][2]通过定义网络中的计算机和检索机制定位资源来引用资源。URL是统一资源标示符（Uniform resource identifier, URI）的特殊类型[3]，不过很多人将其混用[4]。URL标示访问指示资源的方法，而URI并不都是如此[4][5]。URL最常用于引用网页（http），但也用于引用文件传输（ftp）、E-mail（mailto），数据库访问（JDBC）以及其他应用。 - wikipedia.org
 
-Most relevant specifications:
+主要相关标准：
 
 * [Uniform Resource Locators (URL)](http://www.w3.org/Addressing/URL/url-spec.txt)
 * [URL Living Standard](https://url.spec.whatwg.org/)
 
-##### JavaScript Object Notation (aka JSON)
+##### JavaScript对象表示法（JavaScript Object Notation，也就是JSON）
 
-> JSON, sometimes JavaScript Object Notation, is an open standard format that uses human-readable text to transmit data objects consisting of attribute–value pairs. It is the primary data format used for asynchronous browser/server communication (AJAJ), largely replacing XML (used by AJAX). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json. - wikipedia.org
+> JSON，有时也被称为 JavaScript 对象表示法，是一种开放标准格式，使用属性-值对构成的人类可读文本传输数据对象。这是异步浏览器/服务器通信（AJAT）所使用的基础数据格式，广泛取代了XML（使用AJAX）。尽管JSON来源于JavaScript脚本语言，但它是与语言无关的数据格式。在很多编程语言中都有现成的解析生成JSON数据的代码。JSON格式最早由Douglas Crockford定义，现在有两个竞争标准描述，RFC 7159 和 ECMA-404。EMCA标准是最小化的，只描述了允许的语法，而RFC还提供了一些语义和安全方面的考量。JSON的官方网络媒体类型是 application/json。JSON文件的后缀名是 .json。 - wikipedia.org
 
-Most relevant specifications:
+主要相关标准：
 
-* [Introducing JSON](http://json.org/)
-* [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [介绍JSON](http://json.org/)
+* [JSON数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 * [JSON API](http://jsonapi.org/)
 
-##### Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
+##### 网络内容易用性指南（Web Content Accessibility Guidelines，WCAG）和无障碍富网络应用（Accessible Rich Internet Applications，ARIA）
 
-> Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e. unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers). - wikipedia.org
+> 易用性指为残障人士进行的产品、设备、服务或者环设计。无障碍设计的核心是同时确保“直接访问”和“间接访问”，也就是对辅助设备的兼容（比如屏幕阅读器）。 - wikipedia.org
 
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
