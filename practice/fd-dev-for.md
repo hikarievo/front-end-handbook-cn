@@ -1,35 +1,35 @@
-# Front-end developers develop for...
+# 前端为何开发
 
-A front-end developer typically uses front-end technologies to create HTML, CSS, and JS that run on one of the following operating systems:
+前端开发者通常使用前端技术书写HTML、CSS以及JS代码，并运行在以下操作系统中：
 
 * Windows
 * Windows Phone
 * OSX
 * iOS
 * Android
-* Ubuntu (or some flavor of )
+* Ubuntu （或者类似的）
 * Chromium
 
-These operating systems typically run on one or more of the following devices:
+这些操作系统通常运行在下列设备中：
 
-* Desktop computer
-* Laptop / Netbook computer
-* Mobile phone
-* Tablet
-* TV
-* Watch
-* Things (i.e. anything you can imagine, car, refrigerator, lights, thermostat etc..)
+* 桌面电脑
+* 便携式 / 笔记本电脑
+* 移动电话
+* 平板电脑
+* 电视
+* 手表
+* 其他东西（比如…任何你能想象到的，车、冰箱、灯、恒温器等等…）
 
 ![](../images/fd-devs-for.jpeg "https://ams-ix.net/newsitems/87")
 
-<cite>image source: <a href="https://ams-ix.net/newsitems/87">https://ams-ix.net/newsitems/87</a></cite>
+<cite>图片来源：<a href="https://ams-ix.net/newsitems/87">https://ams-ix.net/newsitems/87</a></cite>
 
-Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time scenarios:
+总的来说，前端技术可以在上述系统和设备中，于下列场合中运行：
 
-* A web browser (e.g. [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)) running from OS
-* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (e.g. [phantomJS](http://phantomjs.org/)) driven from a CLI running on OS
-* A [WebView](http://wiki.awesomium.com/general-use/introduction-to-web-views.html)/browser embedded within a native application as a runtime with bridged to native API's. UI is all web based. (e.g. [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
-* A native application built from web tech that is interpreted at runtime with a bridge to native API's. UI is native based. (e.g. [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
+* 网络浏览器（比如[Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en))
+* [无头浏览器](https://en.wikipedia.org/wiki/Headless_browser)（比如[phantomJS](http://phantomjs.org/)）由操作系统中的CLI驱动
+* [网络视图](http://wiki.awesomium.com/general-use/introduction-to-web-views.html)/内嵌于原生应用中的浏览器，作为原生接口运行桥梁。UI都是基于网络的（比如 [Apache Cordova](https://cordova.apache.org/)， [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/)）
+* 使用网络技术构建的原生应用，UI是基于本地的（比如[NativeScript](https://www.nativescript.org/)， [React Native](https://facebook.github.io/react-native/)）
 
 
  
