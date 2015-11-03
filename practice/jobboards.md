@@ -1,6 +1,6 @@
-# Front-end job boards
+# 前端求职
 
-A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
+现今有大量技术求职网站。下面的精简列表是目前与寻找特定前端职位相关性最高的网站。
 
 * [frontenddeveloperjob.com](http://frontenddeveloperjob.com/)
 * [authenticjobs.com](https://authenticjobs.com/#category=4)

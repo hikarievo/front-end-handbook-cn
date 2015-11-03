@@ -1,29 +1,29 @@
-# Front-end on a team
+# 团队中的前端
 
-A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running on web technologies. (Note: A developer who builds everything was once called a "web master" but as of late these rare and mythical developers are called "full-stack developers").
+在设计开发网站、网络应用或基于网络技术的原生应用的时候，前端开发者通常只是整个团队中的一员（注意：构建一切的开发者曾被称为网管（web master），不过到了最近，这些稀有神秘的开发者被称为“全栈开发者（full-stack developers）”）。
 
-A bare bones team for building professional sites or software on the web will minimally contain the following roles.
+在网上构建专业网站或软件的核心团队最少要包含下列角色：
 
-* Visual Designer (i.e. fonts, colors, spacing, emotion, visuals concepts & themes)
-* UI/Interaction Designer/Information Architect (i.e. wireframes, specifying all user interactions and UI functionality, structuring information)
-* Front-end Developer (i.e. writes code that runs in client/on device)
-* Back-end Developer (i.e. writes code that runs on server)
+* 视觉设计师（即字体、颜色、留白、情绪化设计、视觉概念与主题）
+* UI/交互设计师/信息架构师（即线框图、定义所用用户交互以及UI功能，信息结构）
+* 前端开发（即编写在客户端运行的代码）
+* 后端开发（即编写在服务器端运行的代码）
 
-The roles are ordered according to overlapping skills. A front-end developer will typically have a good handle on UI/Interaction design as well as back-end development. It is not uncommon for team members to fill more than one role by taking on the responsibilities of an over-lapping role.
+这些分工按照技能重叠的情况排序。通常前端开发都掌握良好的UI/交互设计以及后端开发技能。团队成员在这些重叠角色上承担多个职责的情况绝非罕见。
 
-It is assumed that the team is being directed by a project lead of some sorts (i.e. stakeholder, project manager, product owner etc...)
+上面的情况是假设整个团队由某种形式的项目领导（诸如投资人、项目经理、产品责任人之类）主持
 
-A larger team might include the following roles not shown above:
+大一点的团队除此以外可能还有下列角色：
 
-* Visual Designers
-* Interface Design/Interaction Designer/Information Design
-* **SEO strategist**
-* Front-end Developer
-* **DevOps Engineers**
-* Back-end Developer
-* **API Developer**
-* **Database Administrator**
-* **QA Engineer / Testers**
+* 视觉设计师
+* UI/交互设计师/信息架构师
+* **SEO 策略**
+* 前端开发
+* **DevOps 工程师**
+* 后端开发
+* **API 开发**
+* **数据库管理员**
+* **QA 工程师 / 测试**
 
 
 

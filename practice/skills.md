@@ -2,7 +2,7 @@
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
 
-<cite>图片来源<a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
+<cite>图片来源：<a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
 
 任何类型的前端开发者都要掌握从初级到高级的 HTML、CSS、DOM、JavaScript、HTTP/URL，以及浏览器技术。
 
