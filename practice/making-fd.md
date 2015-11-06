@@ -1,12 +1,12 @@
-# How front-end developers are made
+# 前端是怎样炼成的
 
 ![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
 
-<cite>image source: <a href="http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg">http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg</a></cite>
+<cite>图片来源: <a href="http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg">http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg</a></cite>
 
-How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. In fact, most of the people working on the front-end, even today, generally seem to be self taught and not traditionally trained as a programmer. Why is this the case? 
+具体来说要如何成为一名前端开发？呃这个比较复杂。迄今为止你都不能在大学获得一个前端学位，而且我也很少听说哪个前端是拿着过时的CS（computer science）或者平面设计学位最后写出专业的HTML、CSS和JavaScript。事实上，大部分的前端工作者，哪怕是现在，几乎都是自我学习并且没有受过传统的程序员教育。这有什么问题吗？ Why is this the case? 
 
-A front-end developer is not a focused visual designer or an interaction designer. Design school is not exactly the place to hone front-end skills. A front-end developer is not exactly a traditionally trained computer science graduate either. Focusing on either doesn't prepare a person for front-end development. And, in fact, following the traditional paths for either in the higher education systems of America (i.e. College) can derail a person from potentially finding a doorway into a practice where actual experience is king. Today, if you want to be a front-end developer, you teach yourself or you take what is likely a non accredited program, course, bootcamp, or class.
+前端开发不是视觉设计或交互设计。设计学校并不会磨练前端技巧。前端开发也不完全是受传统训练的CS学士，它们没有为前端开发做任何准备。实话说，跟随美国高等教育系统（大学）中的任何一条传统路径，都可以让人从入门的可能性中掉入体验为王的实践里。现在，如果你想要成为一名前端开发者，你要么自学，要么参加那些看似不被认可的项目、课程、训练营。
 
 A front-end engineer crafts the skeleton that the user interface rests upon. They must, at times, care as much about the interaction design as they do about the underlying code that creates the UI interactions. Therefore, many in practice today do not come to front-end engineering with programming skills, but, instead, from the other direction. That is, front-end development seems to be filled with more designer types turned developer than programmer types turned front-end developer. Of course, as JavaScript has grown up, so has the desire by more traditionally trained programmers to bring their knowledge to the front-end practice. If you are not aware, front-end developers have not always been considered by "real" programmers as, well, programmers. But times are a changing.
 
